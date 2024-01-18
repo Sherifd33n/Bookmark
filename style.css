@@ -668,7 +668,7 @@ footer .footer-icons img:hover {
   }
 } */
 
-@media (max-width: 500px) {
+@media (min-width: 500px) {
   .navbar {
     margin-top: -1rem;
     padding: 1rem;
@@ -1058,7 +1058,7 @@ footer .footer-icons img:hover {
   }
 }
 
-@media (max-width: 375px) {
+@media (min-width: 375px) {
   .navbar {
     margin-top: -1rem;
     padding: 1rem;
