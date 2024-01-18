@@ -1366,13 +1366,9 @@ footer .footer-icons img:hover {
     height: 110%;
   }
 }
-/* 
-.container .content .image .tab2 {
-  height: 20rem;
-  margin: -21rem 0 0 3.5rem;
-} */
 
-@media (max-width: 320px) {
+
+@media (min-width: 320px) {
   .navbar {
     margin-top: -1rem;
     padding: 1rem;
