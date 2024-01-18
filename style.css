@@ -588,87 +588,9 @@ footer .footer-icons img:hover {
   transform: translateY(-8px);
 }
 
-/* jjjjjjjjjjjjjjjjjjjjjj */
-/* 
-@media (max-width: 900px) {
-  .navbar {
-    padding: 1rem 2rem;
-    position: fixed;
-    width: 100%;
-    z-index: 1001;
-  }
 
-  .navbar ul {
-    position: fixed;
-    top: 60px;
-    gap: 0;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    width: 100%;
-    background: aqua;
-    z-index: 1001;
-    left: -100%;
-    width: 100%;
-    height: 100vh;
-  }
-  .navbar ul.open {
-    left: 0;
 
-    transition: 0.3s;
-  }
-  .navbar li {
-    top: 100px;
-    margin: 2rem 0;
-  }
-  .menu {
-    display: block;
-  }
-  .first {
-    text-align: center;
-    display: grid;
-    padding: 2rem;
-  }
-  .first .left {
-    order: 2;
-  }
-  .first .right {
-    margin: 4rem 0 7rem 0;
-  }
-  .first .right img {
-    height: 54%;
-    margin: 3rem 0 0 -16rem;
-  }
-  .right .blue {
-    height: 16rem;
-    margin: 9rem 0 0 6.2rem;
-    width: 22rem;
-    background: var(--main-color);
-    border-bottom-left-radius: 40%;
-  }
-  .first .big-text {
-    font-size: 2.3rem;
-    font-weight: 650;
-    margin: 1.5rem 0;
-  }
-
-  .first .small-text {
-    font-size: 1.2rem;
-    padding: 0 8%;
-    line-height: 1.9rem;
-    margin: 1rem 0 3rem 0;
-  }
-  .left .links a {
-    font-size: 1.1rem;
-    margin: 0 1rem 0 0;
-    font-weight: 650;
-    border-radius: 5px;
-    text-decoration: none;
-    padding: 0.7rem 1.2rem 0.9rem 1.2rem;
-  }
-} */
-
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .navbar {
     margin-top: -1rem;
     padding: 1rem;
