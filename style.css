@@ -1058,7 +1058,7 @@ footer .footer-icons img:hover {
   }
 }
 
-@media (min-width: 375px) {
+@media (min-width: 320px) {
   .navbar {
     margin-top: -1rem;
     padding: 1rem;
